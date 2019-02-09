@@ -1,6 +1,4 @@
 class Main13 {
-    private final static double PI = 3.14;
-
     public static void main(String[] args) {
         int R1 = 5, R2 = 2;
         Main13 obj = new Main13();
@@ -9,12 +7,11 @@ class Main13 {
         } else {
             System.out.println("Не соответствует условию");
         }
-
     }
 
     private double square(int R1, int R2) {
-        double bigSquare = Math.pow(R1, 2) * PI;
-        double smallSquare = Math.pow(R2, 2) * PI;
+        double bigSquare = Math.pow(R1, 2) * Math.PI;
+        double smallSquare = Math.pow(R2, 2) * Math.PI;
         return bigSquare - smallSquare;
     }
 }

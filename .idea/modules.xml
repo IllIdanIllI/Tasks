@@ -5,6 +5,10 @@
       <module fileurl="file://$PROJECT_DIR$/1.1/1.1.iml" filepath="$PROJECT_DIR$/1.1/1.1.iml" />
       <module fileurl="file://$PROJECT_DIR$/1.2/1.2.iml" filepath="$PROJECT_DIR$/1.2/1.2.iml" />
       <module fileurl="file://$PROJECT_DIR$/1.3/1.3.iml" filepath="$PROJECT_DIR$/1.3/1.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1.4/1.4.iml" filepath="$PROJECT_DIR$/1.4/1.4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1.5/1.5.iml" filepath="$PROJECT_DIR$/1.5/1.5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1.6/1.6.iml" filepath="$PROJECT_DIR$/1.6/1.6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1.7/1.7.iml" filepath="$PROJECT_DIR$/1.7/1.7.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java 0.iml" filepath="$PROJECT_DIR$/Java 0.iml" />
       <module fileurl="file://$PROJECT_DIR$/exponentiation/exponentiation.iml" filepath="$PROJECT_DIR$/exponentiation/exponentiation.iml" />
     </modules>
