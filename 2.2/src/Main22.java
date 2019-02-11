@@ -1,14 +1,14 @@
 public class Main22 {
     public static void main(String[] args) {
-        counter(200);
-        counter(1000);
+        counter(1);
+        counter(0);
         counter(250);
         counter(-5);
     }
 
     private static void counter(int yearQuantity) {
         int headQuantity = 3;
-        if (isBetween(yearQuantity, 1, 200)) {
+        if (isBetween(yearQuantity, 0, 200)) {
             System.out.println("The Dragon отрастил голов: "
                     + yangDragon(headQuantity, yearQuantity));
         } else if (isBetween(yearQuantity, 200, 300)) {
